@@ -23,3 +23,12 @@ Currently focused on building things that solve real problems and getting better
 > I like taking an idea from a blank screen to something real people can use.
 
 ---
+## Tech I Work With
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,tailwind,supabase,git,github,vscode" />
+
+</p>
+
+---

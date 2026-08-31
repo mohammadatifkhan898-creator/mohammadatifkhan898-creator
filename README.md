@@ -1,9 +1,15 @@
 # Hey, I'm Atif 👋
 
-### I turn ambitious ideas into websites, AI systems & products that actually work.
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+ambitious+ideas+into+reality.;Building+websites%2C+AI+systems+%26+digital+products.;Learning.+Building.+Shipping.+Repeating." alt="Typing SVG" />
+
+</div>
+
+<br/>
 
 I'm a young builder exploring the intersection of **technology, AI, automation, and digital products**.
 
-Currently focused on building, learning, shipping, and getting better every day.
+Currently focused on building things that solve real problems and getting better every day.
 
 ---

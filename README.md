@@ -91,3 +91,10 @@ Actively building, learning, and documenting my journey through code.
 <p align="center">
   <img src="https://raw.githubusercontent.com/mohammadatifkhan898-creator/mohammadatifkhan898-creator/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
+## Let's Build Something
+
+I'm always interested in ambitious ideas, interesting products, and meaningful collaborations.
+
+<p align="center">
+  <i>Build. Learn. Improve. Repeat.</i>
+</p>

@@ -85,16 +85,4 @@ Currently focused on building things that solve real problems and getting better
 ---
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mohammadatifkhan898-creator&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"
-    height="165"
-  />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadatifkhan898-creator&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-    height="165"
-  />
-</p>
-
----
+Actively building, learning, and documenting my journey through code.

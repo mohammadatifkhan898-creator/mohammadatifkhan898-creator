@@ -32,3 +32,44 @@ Currently focused on building things that solve real problems and getting better
 </p>
 
 ---
+## 🚀 Selected Projects
+
+### ✦ Amy Lynn Interiors
+
+> A premium modern interior design website crafted with elegant visuals, refined layouts, and a high-end digital experience.
+
+**Focus:** Luxury UI · Modern Web Design · Interactive Experience
+
+🔗 [Visit Live Website](https://amy-lynn-interior.vercel.app)
+
+---
+
+### 🦷 Dental Clinic
+
+> A simple and modern dental clinic website designed to create a clean, trustworthy experience for patients exploring services and clinic information.
+
+**Focus:** Healthcare UI · Modern Design · Responsive Experience
+
+🔗 [Visit Live Website](https://dental-clinic-two-beta.vercel.app)
+
+---
+
+### 🛍️ Glare
+
+> A modern cinematic e-commerce website designed to create an immersive shopping experience, featuring a visually-driven storefront and a functional admin panel.
+
+**Focus:** E-commerce · Cinematic UI · Interactive Design · Admin Dashboard
+
+🔗 [Visit Live Website](https://glarewebsite.vercel.app)
+
+---
+
+### 🎬 Velcri Media
+
+> A customized modern website for a creative editing agency, built around strong visuals, smooth presentation, and a distinctive digital identity.
+
+**Focus:** Creative Agency · Modern UI · Brand Experience · Responsive Design
+
+🔗 [Visit Live Website](https://velcri-media.vercel.app)
+
+---

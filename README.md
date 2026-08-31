@@ -86,3 +86,8 @@ Currently focused on building things that solve real problems and getting better
 ## 📊 GitHub Activity
 
 Actively building, learning, and documenting my journey through code.
+## 🐍 Contribution Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohammadatifkhan898-creator/mohammadatifkhan898-creator/output/github-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>

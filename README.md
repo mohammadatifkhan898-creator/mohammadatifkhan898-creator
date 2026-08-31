@@ -73,3 +73,13 @@ Currently focused on building things that solve real problems and getting better
 🔗 [Visit Live Website](https://velcri-media.vercel.app)
 
 ---
+## 🧠 Currently Exploring
+
+- Building more ambitious **SaaS products**
+- Creating practical **AI automation systems**
+- Improving my **Data Structures & Algorithms**
+- Exploring better ways to combine **AI with real-world products**
+
+> Always learning. Always building. Always shipping.
+
+---

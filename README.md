@@ -101,22 +101,25 @@ Currently focused on building things that solve real problems and getting better
 <p align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadatifkhan898-creator/mohammadatifkhan898-creator/main/assets/overview-dark.svg">
-  <img src="https://raw.githubusercontent.com/mohammadatifkhan898-creator/mohammadatifkhan898-creator/main/assets/overview-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/overview.light.svg">
+  <img src="./assets/overview.light.svg" alt="Overview" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadatifkhan898-creator/mohammadatifkhan898-creator/main/assets/lifetime-dark.svg">
-  <img src="https://raw.githubusercontent.com/mohammadatifkhan898-creator/mohammadatifkhan898-creator/main/assets/lifetime-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/lifetime.light.svg">
+  <img src="./assets/lifetime.light.svg" alt="Lifetime Progress" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadatifkhan898-creator/mohammadatifkhan898-creator/main/assets/contributions-dark.svg">
-  <img src="https://raw.githubusercontent.com/mohammadatifkhan898-creator/mohammadatifkhan898-creator/main/assets/contributions-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contributions.light.svg">
+  <img src="./assets/contributions.light.svg" alt="Contribution Progress" />
 </picture>
 
 </p>

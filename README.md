@@ -30,6 +30,21 @@ Currently focused on building things that solve real problems and getting better
 > I like taking an idea from a blank screen to something real people can use.
 
 ---
+## 🌐 Connect
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
+
+---
 ## Tech I Work With
 
 <p align="left">

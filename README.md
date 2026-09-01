@@ -32,27 +32,19 @@ Currently focused on building things that solve real problems and getting better
 ---
 ## 🌐 Connect
 
-<p align="left">
+<p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/mohd-atif-khan-7b41453a6/)">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_INSTAGRAM_URL">
+<a href="[YOUR_INSTAGRAM_LINK](https://www.instagram.com/atif_77773/)">
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </p>
 
 ---
-## Tech I Work With
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,tailwind,supabase,git,github,vscode" />
-
-</p>
-
 ---
 ## 🚀 Selected Projects
 

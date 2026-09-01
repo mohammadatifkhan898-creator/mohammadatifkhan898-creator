@@ -99,7 +99,9 @@ Currently focused on building things that solve real problems and getting better
 ## 📈 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadatifkhan898-creator&theme=github-compact&hide_border=true" />
+  <a href="https://github.com/mohammadatifkhan898-creator">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadatifkhan898-creator&theme=github-compact&hide_border=true&custom_title=My%20Coding%20Journey" />
+  </a>
 </p>
 
 ---

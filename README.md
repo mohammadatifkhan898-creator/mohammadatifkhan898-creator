@@ -96,6 +96,13 @@ Currently focused on building things that solve real problems and getting better
 > Always learning. Always building. Always shipping.
 
 ---
+## 📈 Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadatifkhan898-creator&theme=github-compact&hide_border=true" />
+</p>
+
+---
 ## 📊 GitHub Activity
 
 Actively building, learning, and documenting my journey through code.

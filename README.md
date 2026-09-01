@@ -6,13 +6,20 @@
 
 </div>
 
-<br/>
+<!-- ADD BADGES HERE 👇 -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILDING-Web%20Experiences-181717?style=flat-square&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPLORING-AI%20Systems-181717?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/SHIPPING-SaaS%20Products-181717?style=flat-square&logo=rocket&logoColor=white" />
+</p>
 
 I'm a young builder exploring the intersection of **technology, AI, automation, and digital products**.
 
 Currently focused on building things that solve real problems and getting better every day.
 
 ---
+
 ## What I'm Building
 
 - 🌐 **Web Experiences** — websites that don't feel like templates

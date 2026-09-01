@@ -96,12 +96,29 @@ Currently focused on building things that solve real problems and getting better
 > Always learning. Always building. Always shipping.
 
 ---
-## 📈 Coding Activity
+## 📈 My Coding Journey
 
 <p align="center">
-  <a href="https://github.com/mohammadatifkhan898-creator">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadatifkhan898-creator&theme=github-compact&hide_border=true&custom_title=My%20Coding%20Journey" />
-  </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadatifkhan898-creator/mohammadatifkhan898-creator/main/assets/overview-dark.svg">
+  <img src="https://raw.githubusercontent.com/mohammadatifkhan898-creator/mohammadatifkhan898-creator/main/assets/overview-light.svg">
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadatifkhan898-creator/mohammadatifkhan898-creator/main/assets/lifetime-dark.svg">
+  <img src="https://raw.githubusercontent.com/mohammadatifkhan898-creator/mohammadatifkhan898-creator/main/assets/lifetime-light.svg">
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadatifkhan898-creator/mohammadatifkhan898-creator/main/assets/contributions-dark.svg">
+  <img src="https://raw.githubusercontent.com/mohammadatifkhan898-creator/mohammadatifkhan898-creator/main/assets/contributions-light.svg">
+</picture>
+
 </p>
 
 ---
